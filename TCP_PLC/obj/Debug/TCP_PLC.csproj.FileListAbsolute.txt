@@ -8,3 +8,27 @@ c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\
 c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.GenerateResource.Cache
 c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.exe
 c:\Users\Eugen\documents\visual studio 2017\Projects\psIercan\TCP_PLC\obj\Debug\TCP_PLC.pdb
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe.config
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.pdb
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.dll
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.pdb
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.dll.config
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csprojResolveAssemblyReference.cache
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.Properties.Resources.resources
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.GenerateResource.Cache
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.exe
+C:\Users\Eugen\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.pdb
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe.config
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.exe
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\TCP_PLC.pdb
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.dll
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.pdb
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\bin\Debug\Simulator.dll.config
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csprojAssemblyReference.cache
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.Properties.Resources.resources
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.GenerateResource.cache
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.CoreCompileInputs.cache
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.csproj.CopyComplete
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.exe
+C:\Users\George-Bogdan\Desktop\psIercan\TCP_PLC\obj\Debug\TCP_PLC.pdb
